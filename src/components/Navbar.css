@@ -35,6 +35,11 @@
     color: #333;
 }
 
+.hamburger {
+    display: none;
+    cursor: pointer;
+}
+
 @media screen and (max-width: 1240px) {
     .hamburger {
         display: flex;

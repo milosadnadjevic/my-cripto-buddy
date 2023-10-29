@@ -11,7 +11,7 @@ const handleClick = () => setClick(!click)
      <div className='header'>
         <div className="container">
             <h1>Crypto<span className="primary">Buddy</span></h1>
-            <ul className={click? 'nav-menu active' : 'nav-menu'}>
+            <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                 <li>
                     <a href="/">Home</a>
                 </li>
