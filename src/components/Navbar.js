@@ -11,7 +11,7 @@ const handleClick = () => setClick(!click)
      <div className='header'>
         <div className="container">
             <h1>Crypto<span className="primary">Buddy</span></h1>
-            <ul className="nav-menu">
+            <ul className={click? 'nav-menu active' : 'nav-menu'}>
                 <li>
                     <a href="/">Home</a>
                 </li>
@@ -28,8 +28,9 @@ const handleClick = () => setClick(!click)
             <div className="btn-group">
                 <button className="btn">Connect Wallet</button>
             </div>
-            <div className="hamburger">
-                <FaBars size={20} style={{color: '#333'}}/>
+            <div className="hamburger" onClick={handleClick}>
+                {click ? (<FaTimes size={20} style={{color: '#333'}}/>) : (<FaBars size={20} style={{color: '#333'}}/>)}
+                
             </div>
 
         </div>
