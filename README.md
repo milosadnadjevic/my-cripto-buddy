@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+CRYPTO-BUDDY
+_____________________________________________________________________________________________________________
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CryptoBuddy in a cryptocurrency investment application designed to empower users in makin informed decisions about their crypto portfolio. Leveraging the CoinGecko API, the app fetches real-time data for a wide range of cryptocurrencies, including current prices, market capitalization, and historical performance.
+_____________________________________________________________________________________________________________
 
-## Available Scripts
+Technologies used:
+- JavaScript
+- React
+- Tailwind
+- CSS
+- HTML
+- CoinGecko API
 
-In the project directory, you can run:
+_____________________________________________________________________________________________________________
 
-### `npm start`
+Desktop View:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2024-01-15 at 11 24 26 PM](https://github.com/milosadnadjevic/my-cripto-buddy/assets/114305946/0a2a6957-49c6-490e-8f31-fc27eef1e46e)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot 2024-01-15 at 11 24 40 PM](https://github.com/milosadnadjevic/my-cripto-buddy/assets/114305946/d5a22c9e-9c60-4cca-ab98-7f69df3793b3)
 
-### `npm test`
+Mobile View:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot 2024-01-15 at 11 25 29 PM](https://github.com/milosadnadjevic/my-cripto-buddy/assets/114305946/5095cd5d-012c-4b63-a72f-866008b80a46)
 
-### `npm run build`
+![Screenshot 2024-01-15 at 11 25 49 PM](https://github.com/milosadnadjevic/my-cripto-buddy/assets/114305946/f0b67f93-607a-4db7-8353-7731183c491c)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_____________________________________________________________________________________________________________
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a href="https://crypto-buddy.online/">Go To The App</a>
 
-### `npm run eject`
+_____________________________________________________________________________________________________________
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+FUTURE ENHANCEMENTS:
+- Advanced Analytics Tools
+- Price Alerts and Notifications
+- Social Integration
+- Educational Resources
